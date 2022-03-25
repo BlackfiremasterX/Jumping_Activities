@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+    <!--Цвета для диаграмм-->
+
+    <!--Большая палитра №1-->
+    <color name="night">#001219</color>
+    <color name="cobalt">#005F73</color>
+    <color name="copper">#0A9396</color>
+    <color name="brightWater">#94D2BD</color>
+    <color name="whiteSkin">#E9D8A6</color>
+    <color name="mandarin">#EE9B00</color>
+    <color name="pumpkin">#CA6702</color>
+    <color name="persimmon">#BB3E03</color>
+    <color name="red">#AE2012</color>
+    <color name="rose">#9B2226</color>
+
+    <!--Палитра №2-->
+    <color name="bone2">#F4F1DE</color>
+    <color name="peach">#E07A5F</color>
+    <color name="dark">#3D405B</color>
+    <color name="swamp">#81B29A</color>
+    <color name="kari">#F2CC8F</color>
+
+    <!--Палитра №3-->
+    <color name="bardo">#780000</color>
+    <color name="brightRed">#C1121F</color>
+    <color name="bone">#FDF0D5</color>
+    <color name="darkWater">#003049</color>
+    <color name="sky">#669BBC</color>
+
+</resources>
